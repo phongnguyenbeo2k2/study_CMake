@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmath_cal_lib.a  CMakeFiles/math_cal_lib.dir/src/div_cal.cpp.o CMakeFiles/math_cal_lib.dir/src/add_cal.cpp.o
+/usr/bin/ranlib libmath_cal_lib.a

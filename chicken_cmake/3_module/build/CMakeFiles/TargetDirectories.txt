@@ -1,0 +1,9 @@
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/CMakeFiles/rebuild_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/CMakeFiles/edit_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/CMakeFiles/calculator.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_math/CMakeFiles/rebuild_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_math/CMakeFiles/edit_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_math/CMakeFiles/math_cal_lib.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_print/CMakeFiles/rebuild_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_print/CMakeFiles/edit_cache.dir
+/home/phong/work/learn_cmake/chicken_cmake/3_module/build/my_print/CMakeFiles/print_lib.dir

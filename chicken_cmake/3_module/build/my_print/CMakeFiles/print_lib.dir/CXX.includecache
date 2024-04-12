@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../my_print/inc/my_print/print_result.h
+iostream
+-
+
+/home/phong/work/learn_cmake/chicken_cmake/3_module/my_print/src/print_result.cpp
+my_print/print_result.h
+/home/phong/work/learn_cmake/chicken_cmake/3_module/my_print/src/my_print/print_result.h
+
